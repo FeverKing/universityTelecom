@@ -32,7 +32,7 @@
 
 
 
-![cuit](./cuit.jpg)
+![cuit](./src/cuit.jpg)
 
 
 
